@@ -4,4 +4,4 @@ type ConfigEntry struct {
 	Key   string
 	Value string
 }
-type ConfigList []ConfigEntry
+type ConfigList []*ConfigEntry
