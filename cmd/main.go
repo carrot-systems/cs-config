@@ -5,6 +5,7 @@ import (
 	"config/src/adapters/rest"
 	"config/src/config"
 	"config/src/core/usecases"
+	discoveryClient "github.com/carrot-systems/csl-discovery-client"
 	env "github.com/carrot-systems/csl-env"
 	"log"
 )
@@ -12,6 +13,8 @@ import (
 func main() {
 	env.LoadEnv()
 
+	discovery := discoveryClient.NewClient()
+	discovery.Register("config")
 	//Oh boy this is gonna get confusing real quick...
 	configurationRepoConfiguration := config.LoadRepoConfiguration()
 	ginConfiguration := config.LoadGinConfiguration()
