@@ -1,7 +1,7 @@
-github.com/carrot-systems/csl-discovery-client v0.0.0-20210425193631-344ee5bcfb14 h1:s8cY3FgIUgymuXJG6YmZOPGPY0vr6h7isxINdeG+IKI=
-github.com/carrot-systems/csl-discovery-client v0.0.0-20210425193631-344ee5bcfb14/go.mod h1:hchmUCJ0nFhtfBv2FpuqeL70y2RdQj/bZ5QpkYrsHhw=
-github.com/carrot-systems/csl-env v1.0.0 h1:/vuFDvmbOq+T3LP/wAWbeABgEfAAO6RLzdyXWA0zakc=
-github.com/carrot-systems/csl-env v1.0.0/go.mod h1:rQlzoapcGNMUBz2hGV9g7+Wzik3tWtioTcyI6lTHv3M=
+github.com/carrot-systems/csl-discovery-client v1.0.3 h1:rgWIBNVBIVRPD97eXmyWHmXuMHReW+HRZNptGsCapzc=
+github.com/carrot-systems/csl-discovery-client v1.0.3/go.mod h1:0FAsBFq/ZgF7PswbLOKHDqfBw7SYr+MXZXrSQSHRMoA=
+github.com/carrot-systems/csl-env v1.0.1 h1:C/ODx+cNu+ggKW9hr6GaDSb43rVVU0IKSRHeudb7Iu0=
+github.com/carrot-systems/csl-env v1.0.1/go.mod h1:rQlzoapcGNMUBz2hGV9g7+Wzik3tWtioTcyI6lTHv3M=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
